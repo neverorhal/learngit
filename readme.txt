@@ -7,3 +7,4 @@ Git Add
 conflict  
 test
 bug Fix
+stash
