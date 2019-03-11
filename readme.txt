@@ -6,3 +6,4 @@ Git Add
  Creating a new branch is quick AND simple.
 conflict  
 test
+bug Fix
